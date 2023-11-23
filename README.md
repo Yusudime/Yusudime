@@ -1,11 +1,11 @@
-### Hi there 👋
+#Ola seja bem vindo(a) ao meu perfil 👋
 
 <h1>Olá!! me chamo Lucas do Nascimento de Sousa</h1>
-<h3>Atualmente estou cursado Analise e desevolvimento de Sistemas (ADS) na UFC Campus Jardins de Anitta na cidade de Itapajé-CE</h3>
-<h3>Tenho 19 anos de idade e desde os 14 anos estudo programação começei com C e depois fui buscando outros conhecimentos na aréa</h3>
-<h3>Atualmente faço parte do grupo de estudos do Bootcamp do Santander cursado o curso de full-stack em java e angular</h3>
-<h3>Estou sempre querendo aprender mais e tenho algumas soft skliss como trabalhar em equipe, sou adptável e sei lidar com pressão</h3>
+<h4>Atualmente estou cursado Analise e desevolvimento de Sistemas (ADS) na UFC Campus Jardins de Anitta na cidade de Itapajé-CE,
+Tenho 19 anos de idade e desde os 15 anos estudo programação começei com C e depois fui buscando, outros conhecimentos na aréa
+Estou sempre, querendo aprender mais e tenho algumas soft skliss como trabalhar em equipe, sou adptável e sei lidar com pressão</h4>
 <br>
+<h3> estou buscado exprêncieias no mercado de trabalho como programador Júrnio ou Estágiario para começar no mercado de trabalho!!</h3>
 <h2>Minhas principais redes sociais:</h2>
 <div id="linkedin">
 <a href="https://www.linkedin.com/in/lucas-do-nascimento-b23010242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=darkblue" target="_blank"></a>
@@ -33,17 +33,4 @@
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusudime&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<!--
-**Yusudime/Yusudime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
