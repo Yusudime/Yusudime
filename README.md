@@ -17,14 +17,15 @@ Estou sempre, querendo aprender mais e tenho algumas soft skliss como trabalhar 
 </div>
 <div>
 <h2>Meus conhecimentos em tecnologias:</h2>
-<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
+<img src="https://img.shields.io/badge/HTML5-ffa500?&logo=html5&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS3-0000FF?logo=css3&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c">
 <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
 <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F">
+<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge">
 </div>
 <div>
 <h2>Sobre meu Git Hub</h2>
