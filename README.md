@@ -8,7 +8,7 @@ Estou sempre, querendo aprender mais e tenho algumas soft skliss como trabalhar 
 <h3> estou buscado exprêncieias no mercado de trabalho como programador Júrnio ou Estágiario para começar no mercado de trabalho!!</h3>
 <h2>Minhas principais redes sociais:</h2>
 <div id="linkedin">
-<a href="https://www.linkedin.com/in/lucas-do-nascimento-b23010242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-darkblue?&logo=linkedin&logoColor=black&style=for-the-badge" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-do-nascimento-b23010242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-darkblue?&logo=linkedin&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="https://discord.gg/Yusudime" target="_blank"><img src="https://img.shields.io/badge/Discord-191970?logo=discord&logoColor=white&style=for-the-badge"></a>
 <a href="https://www.instagram.com/lucas.n.sousa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-eb9ac0?&logo=instagram&logoColor=white&style=for-the-badge"></a>
 <a href="mailto:yusudimelucasnascimentosousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-DC143C?logo=gmail&logoColor=white&style=for-the-badge" target="_blank">  
