@@ -6,7 +6,7 @@ Tenho 19 anos de idade e desde os 15 anos estudo programação começei com C e 
 Estou sempre, querendo aprender mais e tenho algumas soft skliss como trabalhar em equipe, sou adptável e sei lidar com pressão</h4>
 <br>
 <h3> estou buscado exprêncieias no mercado de trabalho como programador Júrnio ou Estágiario para começar no mercado de trabalho!!</h3>
-<h2>Minhas principais redes sociais:</h2>
+<h2>Conectar comigo:</h2>
 <div id="linkedin">
 <a href="https://www.linkedin.com/in/lucas-do-nascimento-b23010242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-darkblue?&logo=linkedin&logoColor=white&style=for-the-badge" target="_blank"></a>
 <a href="https://discord.gg/Yusudime" target="_blank"><img src="https://img.shields.io/badge/Discord-191970?logo=discord&logoColor=white&style=for-the-badge"></a>
@@ -16,7 +16,7 @@ Estou sempre, querendo aprender mais e tenho algumas soft skliss como trabalhar 
 </div>
 </div>
 <div>
-<h2>Meus conhecimentos em tecnologias:</h2>
+<h2>My tasks:</h2>
 <img src="https://img.shields.io/badge/HTML5-ffa500?&logo=html5&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/CSS3-0000FF?logo=css3&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
