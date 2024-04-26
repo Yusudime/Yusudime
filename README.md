@@ -20,13 +20,18 @@ Estou sempre, querendo aprender mais e tenho algumas soft skliss como trabalhar 
 <img src="https://img.shields.io/badge/HTML5-ffa500?&logo=html5&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/CSS3-0000FF?logo=css3&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=Java&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-EDB106?logo=python&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/C-00BFFF?logo=c&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
 <img src="https://img.shields.io/badge/Angular-DC143C?logo=angular&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/-boostrap-white?style=for-the-badge&logo=bootstrap&labelColor=white">
+<img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
+<br>
 <div>
 <h2>Sobre meu Git Hub</h2>
 <a href="https://github.com/Yusudime">
