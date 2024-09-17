@@ -29,7 +29,7 @@ Estou sempre, querendo aprender mais e tenho algumas soft skliss como trabalhar 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/-boostrap-white?style=for-the-badge&logo=bootstrap&labelColor=white">
-<img src="https://img.shields.io/badge/AWS-white.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-white.svg?style=for-the-badge&logo=amazon-aws&logoColor=black">
 </div>
 <br>
 <div>
