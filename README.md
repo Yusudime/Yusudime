@@ -2,7 +2,7 @@
 
 <h1>Olá!! me chamo Lucas do Nascimento de Sousa</h1>
 <h4>Atualmente estou cursado Analise e desevolvimento de Sistemas (ADS) na UFC Campus Jardins de Anitta na cidade de Itapajé-CE,
-Tenho 19 anos de idade e desde os 15 anos estudo programação começei com C e depois fui buscando, outros conhecimentos na aréa
+Tenho 20 anos de idade e desde os 15 anos estudo programação começei com C e depois fui buscando, outros conhecimentos na aréa
 Estou sempre, querendo aprender mais e tenho algumas soft skliss como trabalhar em equipe, sou adptável e sei lidar com pressão</h4>
 <br>
 <h3> estou buscado exprêncieias no mercado de trabalho como programador Júrnio ou Estágiario para começar no mercado de trabalho!!</h3>
